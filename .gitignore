@@ -1,0 +1,18 @@
+# saved model - regenerate by running the notebook (Section 11)
+financial_sentiment_model/
+*.safetensors
+*.bin
+*.zip
+
+# data
+all-data.csv
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# os
+.DS_Store
